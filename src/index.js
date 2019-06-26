@@ -6,5 +6,5 @@ import register from './register';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-register();
+register("pokedex-serviceworker.js");
 
